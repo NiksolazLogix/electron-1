@@ -5,7 +5,7 @@
 ***
 
 ### Logo
-![Logo][https://static.wixstatic.com/media/733c9d_773ce6e712f64d79a9859bcf592e9455~mv2.png/v1/fill/w_91,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/solazzo.png]
+![Logo](https://static.wixstatic.com/media/733c9d_773ce6e712f64d79a9859bcf592e9455~mv2.png/v1/fill/w_91,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/solazzo.png)
 
 *** 
 
