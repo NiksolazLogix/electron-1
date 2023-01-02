@@ -1,0 +1,19 @@
+{
+  "name": "electron-test-1",
+  "productName": "Electron 1",
+  "version": "1.0.0",
+  "description": "electron test one that implements Vue 3",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:hot": "npx electronmon ."
+  },
+  "keywords": [],
+  "author": "Nicola Solazzo",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
